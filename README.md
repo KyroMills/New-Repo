@@ -1,3 +1,3 @@
 # New-Repo
-Workshop Repo
-GitHub is a very useful tool!
+Cool Computer parts & facts
+All the things I like about computers
